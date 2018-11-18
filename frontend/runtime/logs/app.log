@@ -1,0 +1,2171 @@
+2018-11-18 10:33:43 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:33:42 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '1990'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537222.3793
+    'REQUEST_TIME' => 1542537222
+]
+2018-11-18 10:33:47 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:33:47 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '1995'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537227.6952
+    'REQUEST_TIME' => 1542537227
+]
+2018-11-18 10:36:13 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:36:13 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '2356'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537373.5661
+    'REQUEST_TIME' => 1542537373
+]
+2018-11-18 10:36:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:36:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "control".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('control', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:36:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '2361'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/control'
+    'REQUEST_URI' => '/index.php/control'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/control'
+    'REQUEST_TIME_FLOAT' => 1542537374.0591
+    'REQUEST_TIME' => 1542537374
+]
+2018-11-18 10:39:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:39:35 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8737'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537575.3452
+    'REQUEST_TIME' => 1542537575
+]
+2018-11-18 10:39:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:39:35 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "control".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('control', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:39:35 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8742'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/control'
+    'REQUEST_URI' => '/index.php/control'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/control'
+    'REQUEST_TIME_FLOAT' => 1542537575.6584
+    'REQUEST_TIME' => 1542537575
+]
+2018-11-18 10:40:35 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:40:35 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/room/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8764'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/room/control'
+    'REQUEST_URI' => '/index.php/room/control'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/room/control'
+    'REQUEST_TIME_FLOAT' => 1542537635.3771
+    'REQUEST_TIME' => 1542537635
+]
+2018-11-18 10:41:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8764'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537674.3305
+    'REQUEST_TIME' => 1542537674
+]
+2018-11-18 10:41:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'PATH_TRANSLATED' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/webom/control'
+    'ORIG_SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php/index.php'
+    'ORIG_SCRIPT_NAME' => '/index.php/index.php'
+    'ORIG_PATH_INFO' => '/room/control'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => 'om/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8948'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/index.php/room/control'
+    'REQUEST_URI' => '/index.php/index.php/room/control'
+    'SCRIPT_NAME' => '/ro'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/room/control'
+    'REQUEST_TIME_FLOAT' => 1542537674.6611
+    'REQUEST_TIME' => 1542537674
+]
+2018-11-18 10:41:14 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/css/layui.css".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/cs...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => 'text/css,*/*;q=0.1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/css/layui.css'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8948'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/css/layui.css'
+    'REQUEST_URI' => '/index.php/assets/layui/css/layui.css'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/css/layui.css'
+    'REQUEST_TIME_FLOAT' => 1542537674.8206
+    'REQUEST_TIME' => 1542537674
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/css/view.css".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/cs...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:14 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => 'text/css,*/*;q=0.1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/css/view.css'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8942'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/css/view.css'
+    'REQUEST_URI' => '/index.php/assets/layui/css/view.css'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/css/view.css'
+    'REQUEST_TIME_FLOAT' => 1542537674.9371
+    'REQUEST_TIME' => 1542537674
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/css/admin.css".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/cs...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => 'text/css,*/*;q=0.1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/css/admin.css'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8764'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/css/admin.css'
+    'REQUEST_URI' => '/index.php/assets/layui/css/admin.css'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/css/admin.css'
+    'REQUEST_TIME_FLOAT' => 1542537675.0421
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/css/login.css".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/cs...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => 'text/css,*/*;q=0.1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/css/login.css'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8955'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/css/login.css'
+    'REQUEST_URI' => '/index.php/assets/layui/css/login.css'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/css/login.css'
+    'REQUEST_TIME_FLOAT' => 1542537675.1569
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/css/layui.mobile.css".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/cs...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => 'text/css,*/*;q=0.1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/css/layui.mobile.css'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8957'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/css/layui.mobile.css'
+    'REQUEST_URI' => '/index.php/assets/layui/css/layui.mobile.css'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/css/layui.mobile.css'
+    'REQUEST_TIME_FLOAT' => 1542537675.2716
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/layui.js".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/la...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/layui.js'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8959'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/layui.js'
+    'REQUEST_URI' => '/index.php/assets/layui/layui.js'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/layui.js'
+    'REQUEST_TIME_FLOAT' => 1542537675.4128
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/index.js".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/in...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/index.js'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8948'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/index.js'
+    'REQUEST_URI' => '/index.php/assets/layui/index.js'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/index.js'
+    'REQUEST_TIME_FLOAT' => 1542537675.5315
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:15 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "assets/layui/home.js".' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('assets/layui/ho...', Array)
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\phpstudy\PHPTutorial\WWW\advanced\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\phpstudy\PHPTutorial\WWW\advanced\frontend\web\index.php(17): yii\base\Application->run()
+#2 {main}
+2018-11-18 10:41:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/index.php/index.php/room/control'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/assets/layui/home.js'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8942'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/assets/layui/home.js'
+    'REQUEST_URI' => '/index.php/assets/layui/home.js'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/assets/layui/home.js'
+    'REQUEST_TIME_FLOAT' => 1542537675.6353
+    'REQUEST_TIME' => 1542537675
+]
+2018-11-18 10:41:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:58 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8957'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537718.6054
+    'REQUEST_TIME' => 1542537718
+]
+2018-11-18 10:41:58 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:41:58 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'PATH_TRANSLATED' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/webom/control'
+    'ORIG_SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php/index.php'
+    'ORIG_SCRIPT_NAME' => '/index.php/index.php'
+    'ORIG_PATH_INFO' => '/room/control'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => 'om/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8948'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/index.php/room/control'
+    'REQUEST_URI' => '/index.php/index.php/room/control'
+    'SCRIPT_NAME' => '/ro'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/room/control'
+    'REQUEST_TIME_FLOAT' => 1542537718.9061
+    'REQUEST_TIME' => 1542537718
+]
+2018-11-18 10:42:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:42:49 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => ''
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8948'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php'
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1542537769.1805
+    'REQUEST_TIME' => 1542537769
+]
+2018-11-18 10:42:49 [127.0.0.1][-][-][warning][yii\web\Session::init] Session is already started
+2018-11-18 10:42:49 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '245iqaoqpkdo136tqi35um9fl5'
+    'advanced-frontend' => '245iqaoqpkdo136tqi35um9fl5'
+    '_csrf-frontend' => 'b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'ALLUSERSPROFILE' => 'C:\\ProgramData'
+    'APPDATA' => 'C:\\Users\\Eleven\\AppData\\Roaming'
+    'AWE_DIR' => 'D:\\Markdown\\1.6.6\\'
+    'CLASSPATH' => '.;D:\\JDK1.85\\lib\\dt.jar;D:\\JDK1.85\\lib\\tools.jar; '
+    'CommonProgramFiles' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramFiles(x86)' => 'C:\\Program Files (x86)\\Common Files'
+    'CommonProgramW6432' => 'C:\\Program Files\\Common Files'
+    'COMPUTERNAME' => 'LAPTOP-F0GC9ONL'
+    'ComSpec' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'configsetroot' => 'C:\\WINDOWS\\ConfigSetRoot'
+    'DriverData' => 'C:\\Windows\\System32\\Drivers\\DriverData'
+    'FPS_BROWSER_APP_PROFILE_STRING' => 'Internet Explorer'
+    'FPS_BROWSER_USER_PROFILE_STRING' => 'Default'
+    'HOMEDRIVE' => 'C:'
+    'HOMEPATH' => '\\Users\\Eleven'
+    'JAVA_HOME' => 'D:\\JDK1.85'
+    'LOCALAPPDATA' => 'C:\\Users\\Eleven\\AppData\\Local'
+    'LOGONSERVER' => '\\\\LAPTOP-F0GC9ONL'
+    'NUMBER_OF_PROCESSORS' => '4'
+    'OneDrive' => 'C:\\Users\\Eleven\\OneDrive'
+    'OS' => 'Windows_NT'
+    'Path' => 'C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;\";D:\\JDK1.85\\bin;D:\\JDK1.85\\jre\\bin;D:\\phpStudy\\php\\php-5.6.27-nts;D:\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\\";D:\\phpstudy\\PHPTutorial\\php\\php-7.2.1-nts;C:\\ProgramData\\ComposerSetup\\bin;D:\\Vagrant\\bin;D:\\nodejs\\;D:\\Python\\Scripts\\;D:\\Python\\;C:\\Users\\Eleven\\AppData\\Local\\Microsoft\\WindowsApps;D:\\phpstudy\\PHPTutorial\\MySQL\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\Eleven\\AppData\\Roaming\\npm'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'PROCESSOR_ARCHITECTURE' => 'x86'
+    'PROCESSOR_ARCHITEW6432' => 'AMD64'
+    'PROCESSOR_IDENTIFIER' => 'Intel64 Family 6 Model 158 Stepping 9, GenuineIntel'
+    'PROCESSOR_LEVEL' => '6'
+    'PROCESSOR_REVISION' => '9e09'
+    'ProgramData' => 'C:\\ProgramData'
+    'ProgramFiles' => 'C:\\Program Files (x86)'
+    'ProgramFiles(x86)' => 'C:\\Program Files (x86)'
+    'ProgramW6432' => 'C:\\Program Files'
+    'PROMPT' => '$P$G'
+    'PSModulePath' => 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules'
+    'PUBLIC' => 'C:\\Users\\Public'
+    'SystemDrive' => 'C:'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'TEMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'TMP' => 'C:\\Users\\Eleven\\AppData\\Local\\Temp'
+    'USERDOMAIN' => 'LAPTOP-F0GC9ONL'
+    'USERDOMAIN_ROAMINGPROFILE' => 'LAPTOP-F0GC9ONL'
+    'USERNAME' => 'Eleven'
+    'USERPROFILE' => 'C:\\Users\\Eleven'
+    'VBOX_MSI_INSTALL_PATH' => 'D:\\VirtualBox 5.1\\'
+    'WEBKIT_IGNORE_SSL_ERRORS' => '1'
+    'windir' => 'C:\\WINDOWS'
+    '__COMPAT_LAYER' => 'Installer'
+    'HTTP_COOKIE' => 'PHPSESSID=245iqaoqpkdo136tqi35um9fl5; advanced-frontend=245iqaoqpkdo136tqi35um9fl5; _csrf-frontend=b94af889ddf5cf2bcc89df07656554a8895ea14b072f9116f458cb6e98cb3daca%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22AMUQOQbOtG4i7lGYOtLX0fBXJ3rpQ0wn%22%3B%7D'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://mercer.com/'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_HOST' => 'mercer.com'
+    'PATH_INFO' => '/room/control'
+    'REDIRECT_STATUS' => '200'
+    'SERVER_NAME' => 'mercer.com'
+    'SERVER_PORT' => '80'
+    'SERVER_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '8957'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'SERVER_SOFTWARE' => 'nginx/1.11.5'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'DOCUMENT_ROOT' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web'
+    'DOCUMENT_URI' => '/index.php/room/control'
+    'REQUEST_URI' => '/index.php/room/control'
+    'SCRIPT_NAME' => '/index.php'
+    'CONTENT_LENGTH' => ''
+    'CONTENT_TYPE' => ''
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'SCRIPT_FILENAME' => 'D:/phpstudy/PHPTutorial/WWW/advanced/frontend/web/index.php'
+    'FCGI_ROLE' => 'RESPONDER'
+    'PHP_SELF' => '/index.php/room/control'
+    'REQUEST_TIME_FLOAT' => 1542537769.4923
+    'REQUEST_TIME' => 1542537769
+]
